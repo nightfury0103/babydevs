@@ -37,5 +37,9 @@
         "dev": "encore dev",
         "watch": "encore dev --watch",
         "build": "encore production --progress"
+    },
+    "dependencies": {
+        "walletlink": "^2.5.0",
+        "web3modal": "^1.9.5"
     }
 }
